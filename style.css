@@ -1,0 +1,17 @@
+.computer-specs ul{
+	text-align: left;
+    font-size: 20px;
+    list-style: none;
+    font-family: system-ui;
+    color: #052846b3;
+    background: aliceblue;
+}
+
+.subscribe {
+	height: 400px;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+	background: #8534051a;
+}
